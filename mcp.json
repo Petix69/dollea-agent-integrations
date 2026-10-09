@@ -1,0 +1,12 @@
+{
+  "mcpServers": {
+    "dollea-salon": {
+      "type": "http",
+      "url": "https://www.dollea.de/mcp/salon"
+    },
+    "dollea-beauty-coworking": {
+      "type": "http",
+      "url": "https://coworking.dollea.de/mcp/coworking"
+    }
+  }
+}

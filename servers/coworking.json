@@ -1,0 +1,14 @@
+{
+  "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
+  "name": "de.dollea/coworking",
+  "title": "Dollea Beauty Coworking",
+  "version": "1.0.0",
+  "description": "Find beauty workspaces in Munich and rent them at your approved personal rates.",
+  "websiteUrl": "https://coworking.dollea.de/",
+  "remotes": [
+    {
+      "type": "streamable-http",
+      "url": "https://coworking.dollea.de/mcp/coworking"
+    }
+  ]
+}
